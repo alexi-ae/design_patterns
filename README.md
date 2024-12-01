@@ -5,11 +5,9 @@ Los patrones de diseño son soluciones comunes y reutilizables a problemas recur
 
 ## Tabla de Contenidos
 
-1. [Creaciona](#Creacional)
+1. [Creacional](#Creacional)
 2. [Estructural](#Estructural)
 3. [Comportamiento](#Comportamiento)
-4. [Ejemplo de Uso](#ejemplo-de-uso)
-5. [Ventajas](#ventajas)
 
 ---
 
